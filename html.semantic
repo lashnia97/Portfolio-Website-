@@ -1,0 +1,35 @@
+<nav>
+        <ul>
+          <li><a href="#aboutme">Home</a></li>
+          <li><a href="#education">Posts</a></li>
+          <li><a href="#workexperience">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <main>
+        <body>
+      <section>
+        
+          <h1>All about Nia</h1>
+          <p>
+            I am a Georgia State University graduate who has a degree in pre-law. 
+            I’m pursuing a career in Front end-development and have an interest in UX/UI design. 
+            My goal is to find a job that will allow me to merge both of these interests. 
+            I’m new to the tech field but I am a fast learner and passionate about what I do.
+            </p>
+<div>
+    <h1>Web Development Projects</h1>
+    <nav>
+      <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ol>
+</div>
+<footer>
+            <div>
+                <p> Thank you visiting my page</p>
+            </div>
+</footer>
+</body>
